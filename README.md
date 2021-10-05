@@ -52,6 +52,7 @@ Choose one of the following routes for your journey.
 + Use of state libraries (Redux, MobX, MST, etc….)
 + Allow the top 100 to be searchable 
 + Allow the user to see more information about a selected Album
++ Create tests using Detox
 
 
 -------
@@ -60,5 +61,7 @@ Choose one of the following routes for your journey.
 *"All is fair in love and bonus rounds"*
 
 **TASKS**
++ Use app distribution services like Firebase or Appcenter
++ Use GitHub Actions or any other CI/CD services
 + Surprise us! Add a feature that you think would work well here (for instance, advanced search, integration with other API, a "Favorite" functionality, add some branding like custom launch icon and launch screens)
 + **Show us your work through your commit history!**
