@@ -10,13 +10,14 @@ In a fictional world, we are branching into the music business and need a new mo
 - Show top 100 albums based on the json feed here:  https://itunes.apple.com/us/rss/topalbums/limit=100/json
 - A clean modern look
 - Clean, readable, maintainable codebase
-- Source code on Github or Bitbucket
+- Source code on Github, Bitbucket, or Gitlab
 - Be able to run IOS and Android simulators
-- Do not create react app using Expo!!!!
+- Do not create react app using **Expo** or any other **boilerplate**. Use the simple react-native init!!!!
+- Use TypeScript
 - A good user experience
 
 
-####Levels of Awesome
+#### Levels of Awesome
 
 Choose one of the following routes for your journey. 
 
